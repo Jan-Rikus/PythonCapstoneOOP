@@ -1,6 +1,6 @@
 # Shoe Warehouse Stock Management System
 
-This program is a stock management system designed for a shoe warehouses.
+This program is a stock management system designed for a shoe warehouse.
 The system allows store managers to efficiently manage the warehouse and perform stock-taking tasks.
 
 ## Features
